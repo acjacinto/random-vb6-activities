@@ -1,0 +1,19 @@
+Line 36: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 138: Class MCI.MMControl of control MMControl1 was not a loaded control class.
+Line 39: The property name _ExtentX in CommonDialog1 is invalid.
+Line 40: The property name _ExtentY in CommonDialog1 is invalid.
+Line 41: The property name _Version in CommonDialog1 is invalid.
+Line 144: The property name _ExtentX in MMControl1 is invalid.
+Line 145: The property name _ExtentY in MMControl1 is invalid.
+Line 146: The property name _Version in MMControl1 is invalid.
+Line 147: The property name PrevEnabled in MMControl1 is invalid.
+Line 148: The property name NextEnabled in MMControl1 is invalid.
+Line 149: The property name PlayEnabled in MMControl1 is invalid.
+Line 150: The property name PauseEnabled in MMControl1 is invalid.
+Line 151: The property name BackEnabled in MMControl1 is invalid.
+Line 152: The property name StepEnabled in MMControl1 is invalid.
+Line 153: The property name StopEnabled in MMControl1 is invalid.
+Line 154: The property name RecordEnabled in MMControl1 is invalid.
+Line 155: The property name EjectEnabled in MMControl1 is invalid.
+Line 156: The property name DeviceType in MMControl1 is invalid.
+Line 157: The property name FileName in MMControl1 is invalid.
