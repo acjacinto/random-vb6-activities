@@ -1,0 +1,9 @@
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how_to_compare_1.Form1.resources
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how_to_compare_1.Resources.resources
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how to compare 1.vbproj.GenerateResource.Cache
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\bin\Debug\how to compare 1.exe
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\bin\Debug\how to compare 1.pdb
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\bin\Debug\how to compare 1.xml
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how to compare 1.exe
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how to compare 1.xml
+C:\Users\jacin\AppData\Local\Temporary Projects\how to compare 1\obj\x86\Debug\how to compare 1.pdb
