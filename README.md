@@ -53,6 +53,8 @@ The activities consist most of the Visual Basic 6.0 Lessons (Variables, If and I
 - Loading Form
 - Toolbar and Imagelist
 - My CD Player
+- Current Date Current Time
+- Momentary Calendar
 
 ## Tech
 
