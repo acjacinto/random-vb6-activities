@@ -5,7 +5,7 @@
 
 Visual Basic is a user-friendly programming language designed for beginners that enables anyone to develop GUI window applications easily. Visual Basic 6.0 easy lessons and numerous sample codes to help you master Visual Basic programming effortlessly. 
 
-A compilation of my previous activities as a student when I was at the first step of programming using an environment of basic graphical user interface.
+A compilation of my previous activities as a student when I was in the first step of programming using an environment of basic graphical user interface.
 
 The activities consist most of the Visual Basic 6.0 Lessons (Variables, If and IIf(), Select Case, Looping, Functions, Mathematical Functions, String Functions, Sub Procedure, Arrays, Create Files, Create Graphics, Create DVD & CD Player, Errors Handling, Creating Menu, Keyboard Handling, etc...).
 
